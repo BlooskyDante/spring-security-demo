@@ -1,4 +1,4 @@
-package com.luv2code.springboot.cruddemo.config;
+package com.luv2code.springboot.employee.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
